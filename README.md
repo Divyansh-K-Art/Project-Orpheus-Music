@@ -22,19 +22,19 @@ A premium web application for generating complete musical compositions from text
 ## 🎬 Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](generator-studio.png)
+![Landing Page](Project-Orheus/screenshots/generator-studio.png)
 *"Compose the Future With AI" - Premium hero section with animated gradient background*
 
 ### 🎹 Generator Studio
-![Generator Studio](hero-page.png)
+![Generator Studio](Project-Orheus/screenshots/hero-page.png)
 *Music generation interface with prompt input, example chips (Lo-fi Beats, Cinematic, Synth Pop)*
 
 ### 📊 AI-Generated Musical Plan
-![Musical Plan](success-complete.png)
+![Musical Plan](Project-Orheus/screenshots/success-complete.png)
 *"Sonic Blueprint" with Structure Flow, Key (C Major), Tempo (120 BPM), and Instrumentation*
 
 ### ✅ Complete Generation  
-![Complete Generation](success-complete.png)
+![Complete Generation](Project-Orheus/screenshots/success-complete.png)
 *Full workflow with plan card, audio player, and download button*
 
 ---
